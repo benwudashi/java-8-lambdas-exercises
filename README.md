@@ -1,5 +1,7 @@
 java-8-lambdas-exercises
 ========================
+微信读书地址：https://weread.qq.com/web/reader/a31320a0718ff5e3a31eb98
+java8 函数式编程
 
 This git repository contains support material for the [Java 8 Lambdas](http://tinyurl.com/java8lambdas) book.
 
